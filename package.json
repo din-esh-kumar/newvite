@@ -2,6 +2,7 @@
   "name": "newvite",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://din-esh-kumar/github.io/newvite/",
   "type": "module",
   "scripts": {
     "dev": "vite",
